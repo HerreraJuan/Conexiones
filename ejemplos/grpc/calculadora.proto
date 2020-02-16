@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message Numero {
+	float valor = 1;
+}
+
+service Calculadora {
+	rpc raizCuadrada(Numero) returns (Numero) {}
+}
