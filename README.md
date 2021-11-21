@@ -16,7 +16,7 @@ UDP= Cliente / Servidor.
 
 Todo el codigo es editable. 
 
-Software libre ♥ .
+
 ----------------------------------------------------------------------------------------------------------------------------
 Different types of connections, very basic to get an idea of ​​each connection (in broad strokes). With annexes to compile in Spanish.
 
