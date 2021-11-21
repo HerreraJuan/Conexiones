@@ -32,9 +32,6 @@ UDP = Client / Server.
 
 All code is editable. 
 
-Free software ♥.
-
-
 2/16/20 - Juan Herrera
 
 
